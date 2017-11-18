@@ -17,6 +17,6 @@ int main()
 	if(x < 0 && y > 0) cout<<2;
 	if(x < 0 && y < 0) cout<<3;
 	if(x > 0 && y < 0) cout<<4;
-	//cout<<"\nEclipse C++"<<endl;
+	cout<<"\nEclipse C++"<<endl;
 	return 0;
 }
