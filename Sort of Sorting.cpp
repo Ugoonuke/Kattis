@@ -37,5 +37,6 @@ int main() {
 	for(int i = 0; i < tsize; i++) {
 		cout<<sorted[i]<<endl; // Print out the finished vector list
 	}
+	cout<<"\nEclipse C++"<<endl;
 	return 0;
 }
