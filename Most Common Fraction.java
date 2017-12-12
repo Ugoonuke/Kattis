@@ -27,9 +27,9 @@ public class MCF {
             s[i] = Integer.toString(c)+"/"+Integer.toString(d);
         }
         for(int i = 0; i < n; i++) {
-        	r[i] = 0 ;
+        	r[i] = 0;
             for(int j = 0; j < n; j++) {
-            	if(s[i] == s[j] && i !=j) {
+            	if(s[i] == s[j] && i != j) {
             		r[i]++;
             	}
             	if(max < r[i]) {
