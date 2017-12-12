@@ -1,2 +1,2 @@
 # Kattis
-Kattis Problems using C++
+Solving Kattis Problems
